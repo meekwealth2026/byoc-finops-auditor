@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default local capability permissions for BYOC FinOps Auditor","local":true,"windows":["main"],"permissions":["core:default","shell:allow-open"]}}
